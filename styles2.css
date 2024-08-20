@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.medsos{
+    padding: 5px 0;
+    background-color: #EDBB99;
+}
+.medsos ul li{
+    display: inline-block;
+    color: #fff;
+    margin-right: 10px;
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+header{
+}
+header h1{
+    float: left;
+    padding: 15px 0;
+    color: #EDBB99 ;
+}
+header ul{
+    float: right;
+}
+header ul li{
+    display: inline-block;
+}
+header ul li a{
+    padding: 25px 20px;
+    display: inline-block;
+}
+header ul li a:hover{
+    background-color: #EDBB99 ;
+    color: #fff;
+}
+.active{
+    background-color: #EDBB99;
+    color: #fff;
+}
+.banner h2{
+    color: #6e2c00  ;
+    z-index: 1;
+    padding: 20px 25px;
+    border: 3px solid #fff;
+}
+section{
+    padding: 50px 40px;
+}
+section h3{
+    text-align: center;
+    padding: 20px 0;
+    color:#EDBB99 ;
+}
+.about p{
+    color: #666;
+    word-spacing: 1vh;
+}
+footer{
+    padding: 5px 0;
+    background-color:#EDBB99;
+    color: #fff;
+    text-align: center;
+}
